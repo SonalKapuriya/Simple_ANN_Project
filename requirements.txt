@@ -6,3 +6,4 @@ tensorboard
 matplotlib
 streamlit==1.38.0
 scikeras
+python=3.11.9
